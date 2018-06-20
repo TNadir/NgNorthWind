@@ -1,0 +1,14 @@
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Application.deps.json
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Application.dll
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Application.pdb
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Domain.dll
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Persistence.dll
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Domain.pdb
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\bin\Debug\netcoreapp2.0\Northwind.Persistence.pdb
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.csprojAssemblyReference.cache
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.csproj.CoreCompileInputs.cache
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.AssemblyInfoInputs.cache
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.AssemblyInfo.cs
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.csproj.CopyComplete
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.dll
+C:\CoreProjects\DDDBNE2017\Northwind\Northwind.Application\obj\Debug\netcoreapp2.0\Northwind.Application.pdb
