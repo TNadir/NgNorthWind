@@ -27,4 +27,8 @@ dotnet sln add Demo.ConsoleApp/Demo.ConsoleApp.csproj
 dotnet sln add Demo.Api/Demo.Api.csproj
 
 dotnet build
-
+==========================================
+#EF Core in Standard Library
+cd Northwind.Data
+dotnet ef --startup-project ../Northwind.Web migrations add Init  //add migration
+dotnet ef --startup-project ../Northwind.Web database update   //database update
