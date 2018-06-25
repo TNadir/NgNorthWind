@@ -37,5 +37,7 @@ dotnet ef --startup-project ../Northwind.Web migrations add Init  //add migratio
 dotnet ef --startup-project ../Northwind.Web database update   //database update
 
 #add angular cli
+
 copy paste angular-cli.json
+
 npm install @angular/cli@latest --save
