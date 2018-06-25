@@ -41,3 +41,5 @@ dotnet ef --startup-project ../Northwind.Web database update   //database update
 copy paste angular-cli.json
 
 npm install @angular/cli@latest --save
+
+ng g component auth --skip-import
